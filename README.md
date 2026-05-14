@@ -8,7 +8,7 @@
 <br>
 
 > [!NOTE]
-> **Repositorio de Portfolio Personal** — Este proyecto contiene el código fuente de mi sitio web profesional, diseñado para mostrar mis habilidades en desarrollo full-stack y mi especialización en ciberseguridad.
+> **Repositorio de Portfolio Personal** — El código fuente completo se mantiene en un repositorio privado por razones de seguridad y propiedad intelectual. Este espacio sirve como portfolio técnico y documentación de arquitectura para reclutadores y desarrolladores interesados en el proyecto.
 
 <br>
 

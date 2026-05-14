@@ -22,6 +22,14 @@ Portfolio profesional de **Pablo Torres Clavijo (PabloTC)** — Desarrollador en
 
 ---
 
+### 📸 Vista previa (Social Card)
+
+![Pablo Torres Clavijo Portfolio](https://pablotc.dev/Images/og_pablo_torres.png)
+
+<br>
+
+---
+
 ### 🚀 Tecnologías Utilizadas
 
 | Frontend | Backend | Infraestructura |

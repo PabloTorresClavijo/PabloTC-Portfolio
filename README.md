@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 <br>
@@ -34,9 +34,9 @@ Portfolio profesional de **Pablo Torres Clavijo (PabloTC)** — Desarrollador en
 
 | Frontend | Backend | Infraestructura |
 |:---:|:---:|:---:|
-| React 19 / Vite | Node.js / PHP 8 | Linux Server |
-| TypeScript | **JWT Auth** | Docker / Git |
-| Framer Motion / Tailwind | REST APIs / MySQL | SMTP / Brotli |
+| React 19 / Vite | PHP 8 | Hostinger / Git |
+| JavaScript | MySQL | SMTP / Brotli |
+| Framer Motion / Tailwind | REST APIs | HTTP/2 / LCP Opt. |
 
 <br>
 
@@ -66,7 +66,6 @@ Portfolio profesional de **Pablo Torres Clavijo (PabloTC)** — Desarrollador en
 | **Seguridad & Formulario (A+ Grade)** |
 |:---|
 | ✅ Protección contra **Inyección SQL** y **XSS** |
-| ✅ Autenticación y protección de peticiones mediante **JWT** |
 | ✅ Detección de emails temporales y validación dual (Front/Back) |
 | ✅ Campo **honeypot** anti-bot y rate limiting estricto |
 | ✅ Sanitización integral de inputs y Prepared Statements |
